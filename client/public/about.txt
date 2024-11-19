@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Yi
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yi)
+- Font Source: http://fonts.gstatic.com/s/notosansyi/v18/sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
