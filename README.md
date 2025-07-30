@@ -1,4 +1,4 @@
-# 🎬 YouTube Video Streaming App (React + RapidAPI)
+# 🎬  Video Streaming App 
 
 A simple React-based video streaming application that allows users to search for YouTube videos and watch them directly within the app. It leverages **RapidAPI's YouTube Search API** to fetch video data.
 
